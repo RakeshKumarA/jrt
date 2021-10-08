@@ -104,7 +104,7 @@ const AboutSection = () => {
           <Grid item>
             <Typography variant="h6" color="secondary" align="center">
               Jyothi Reddy Trust is a leading Social Service Organization
-              established in 2001 with the objective to serve the old age and
+              established in 2013 with the objective to serve the old age and
               orphan kids in the most backward regions irrespective caste, creed
               and religion. Our Vision is to build a society where all human
               beings can live with dignity. Our mission is to secure the life of

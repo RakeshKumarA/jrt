@@ -26,7 +26,7 @@ const useStyles = makeStyles({
     color: "#fff",
   },
   cardStyleres: {
-    height: "45vh",
+    height: "55vh",
     background: "#212121",
     color: "#fff",
   },
